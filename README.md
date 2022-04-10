@@ -28,7 +28,7 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 
 ## Psych Engine: Winning Icons Support
 * [Aqua_Strikr](https://twitter.com/aqua_strikr) - Coding / Icon Credits
-* * [Luis com S](https://twitter.com/Luis_comS_10) - Additional Coding / Fixed some Errors
+* [Luis com S](https://twitter.com/Luis_comS_10) - Additional Coding / Fixed some Errors
 * [Saltybro](https://twitter.com/7saltybro) - Play Test
 * [Vyrox](https://twitter.com/vyrox_novo) - Fixed some Errors
 * [Mibsfiha](https://twitter.com/Mibsfiha) - Motivated me to work on FNF Modding
