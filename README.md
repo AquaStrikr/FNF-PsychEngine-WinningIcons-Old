@@ -1,4 +1,4 @@
-# Friday Night Funkin' - Psych Engine
+# Friday Night Funkin - Psych Engine: Winning Icons Support (0.5.2h)
 Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
 ## Installation:
@@ -10,13 +10,14 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 
 ...Or if you don't want your mod to be able to run .lua scripts, delete the "LUA_ALLOWED" line on Project.xml
 
-## Credits:
+## Psych Engine
 * Shadow Mario - Coding
 * RiverOaken - Arts and Animations
-* bbpanzu - Assistant Coding
+* Yoshubs - Assistant Coding
+* bbpanzu - Ex-coder
 
 ### Special Thanks
-* shubs - New Input System
+* Yoshubs - New Input System
 * SqirraRNG - Chart Editor's Sound Waveform base code
 * iFlicky - Delay/Combo Menu Song Composer + Dialogue Sounds
 * PolybiusProxy - .MP4 Loader Extension
@@ -24,6 +25,15 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 * Smokey - Spritemap Texture Atlas support
 * Cary - OG Resolution code
 * Nebula_Zorua - VCR Shader code
+
+## Psych Engine: Winning Icons Support
+* Aqua_Strikr - Coding / Icon Credits
+* Saltybro - Play Test
+* Luis com S - Fixed some Errors
+* Vyrox - Compiled the Engine (ugh, my notebook sucks!)
+
+### Special Thanks²
+* BeastlyGhost - Winning Icons
 _____________________________________
 
 # Features
