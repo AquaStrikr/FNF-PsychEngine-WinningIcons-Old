@@ -29,8 +29,8 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 ## Psych Engine: Winning Icons Support
 * Aqua_Strikr - Coding / Icon Credits
 * Saltybro - Play Test
-* Luis com S - Fixed some Errors
-* Vyrox - Compiled the Engine (ugh, my notebook sucks!)
+* Luis com S - Fixed some Errors / Compiled the Build
+* Vyrox - Fixed some Errors
 
 ### Special Thanks²
 * BeastlyGhost - Winning Icons
