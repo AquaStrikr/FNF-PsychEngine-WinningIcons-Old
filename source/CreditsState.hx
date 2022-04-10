@@ -86,6 +86,7 @@ class CreditsState extends MusicBeatState
 			['Luis com S',			'luis',		'Additional Coding'							'https://twitter.com/Luis_comS_10', 	'FFDE00'],
 			['7SaltyBro',			'salty',		'Play Test',							'https://twitter.com/7saltybro',	'AEDEEC'],
 			['Vyrox',			'vyrox',		'Fixed some Errors',							'https://twitter.com/vyrox_novo', 	'FFFC55'],
+			['Mibsfiha',			'mibs',		'Motivated me to work on FNF Modding',							'https:twitter.com/Mibsfiha', 	''],
 			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',							'https://twitter.com/Shadow_Mario_',	'444444'],
