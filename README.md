@@ -11,10 +11,10 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 ...Or if you don't want your mod to be able to run .lua scripts, delete the "LUA_ALLOWED" line on Project.xml
 
 ## Psych Engine
-* Shadow Mario - Coding
-* RiverOaken - Arts and Animations
-* Yoshubs - Assistant Coding
-* bbpanzu - Ex-coder
+* [Shadow Mario](https://twitter.com/Shadow_Mario_) - Coding
+* [RiverOaken](https://twitter.com/RiverOaken) - Arts and Animations
+* [Yoshubs](https://twitter.com/yoshubs) - Assistant Coding
+* [bbpanzu](https://twitter.com/bbsub3) - Ex-coder
 
 ### Special Thanks
 * Yoshubs - New Input System
@@ -27,10 +27,10 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 * Nebula_Zorua - VCR Shader code
 
 ## Psych Engine: Winning Icons Support
-* Aqua_Strikr - Coding / Icon Credits
-* Saltybro - Play Test
-* Luis com S - Fixed some Errors / Compiled the Build
-* Vyrox - Fixed some Errors
+* [Aqua_Strikr](https://twitter.com/aqua_strikr) - Coding / Icon Credits
+* [Saltybro](https://twitter.com/7saltybro) - Play Test
+* [Luis com S](https://twitter.com/Luis_comS_10) - Fixed some Errors / Compiled the Build
+* [Vyrox](https://twitter.com/vyrox_novo) - Fixed some Errors
 
 ### Special Thanks²
 * BeastlyGhost - Winning Icons
