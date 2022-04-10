@@ -81,16 +81,16 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
-            ['PE Winning Icons'],
+            ['Psych Engine Winning Icons'],
 		    ['Aqua Strikr',			'aqua',		'Coding',							'https://twitter.com/aqua_strikr',	'602DBF'],
+			['Luis com S',			'luis',		'Additional Coding'							'https://twitter.com/Luis_comS_10', 	'FFDE00'],
 			['7SaltyBro',			'salty',		'Play Test',							'https://twitter.com/7saltybro',	'AEDEEC'],
-			['Luis com S',			'luis',		'Fixed some errors'							'https://twitter.com/Luis_comS_10', 	'FFDE00'],
-			['Vyrox',			'vyrox',		'Compiled the engine',							'https://twitter.com/vyrox_novo', 	'FFFC55'],
+			['Vyrox',			'vyrox',		'Fixed some Errors',							'https://twitter.com/vyrox_novo', 	'FFFC55'],
 			[''],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',							'https://twitter.com/Shadow_Mario_',	'444444'],
 			['RiverOaken',			'riveroaken',		'Main Artist/Animator of Psych Engine',						'https://twitter.com/RiverOaken',		'C30085'],
-			['shubs',				'shubs',			'Additional Programmer of Psych Engine',					'https://twitter.com/yoshubs',			'279ADC'],
+			['Yoshubs',				'shubs',			'Additional Programmer of Psych Engine',					'https://twitter.com/yoshubs',			'279ADC'],
 			[''],
 			['Former Engine Members'],
 			['bb-panzu',			'bb-panzu',			'Ex-Programmer of Psych Engine',							'https://twitter.com/bbsub3',			'389A58'],
