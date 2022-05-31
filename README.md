@@ -1,4 +1,4 @@
-# Friday Night Funkin - Psych Engine: Winning Icons Support (0.5.2h)
+# Psych Engine Winning Icons
 Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
 ## Installation:
@@ -14,10 +14,13 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 * [Shadow Mario](https://twitter.com/Shadow_Mario_) - Coding
 * [RiverOaken](https://twitter.com/RiverOaken) - Arts and Animations
 * [Yoshubs](https://twitter.com/yoshubs) - Assistant Coding
-* [bbpanzu](https://twitter.com/bbsub3) - Ex-coder
+* [bbpanzu](https://twitter.com/bbsub3) - Ex-Coder
+
+## Winning Icons
+* [AquaStrikr](https://twitter.com/aqua_strikr) - Coding, Credit Icons
+* [BeastlyGhost](https://twitter.com/Fan_de_RPG) - Icons
 
 ### Special Thanks
-* Yoshubs - New Input System
 * SqirraRNG - Chart Editor's Sound Waveform base code
 * iFlicky - Delay/Combo Menu Song Composer + Dialogue Sounds
 * PolybiusProxy - .MP4 Loader Extension
@@ -25,12 +28,6 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 * Smokey - Spritemap Texture Atlas support
 * Cary - OG Resolution code
 * Nebula_Zorua - VCR Shader code
-
-## Winning Icons
-* [AquaStrikr](https://twitter.com/aqua_strikr) - Coding, Credit Icons
-* [Luis com S](https://twitter.com/Luis_comS_10) - Additional Coding, Fixed some Errors
-* [Vyrox](https://twitter.com/vyrox_novo) - Fixed some Errors
-* [BeastlyGhost](https://twitter.com/Fan_de_RPG) - Icons
 _____________________________________
 
 # Features
