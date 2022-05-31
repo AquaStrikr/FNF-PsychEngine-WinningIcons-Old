@@ -26,15 +26,11 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 * Cary - OG Resolution code
 * Nebula_Zorua - VCR Shader code
 
-## Psych Engine: Winning Icons Support
-* [Aqua_Strikr](https://twitter.com/aqua_strikr) - Coding / Icon Credits
-* [Luis com S](https://twitter.com/Luis_comS_10) - Additional Coding / Fixed some Errors
-* [Saltybro](https://twitter.com/7saltybro) - Play Test
+## Winning Icons
+* [AquaStrikr](https://twitter.com/aqua_strikr) - Coding, Credit Icons
+* [Luis com S](https://twitter.com/Luis_comS_10) - Additional Coding, Fixed some Errors
 * [Vyrox](https://twitter.com/vyrox_novo) - Fixed some Errors
-* [Mibsfiha](https://twitter.com/Mibsfiha) - Motivated me to work on FNF Modding
-
-### Special Thanks²
-* BeastlyGhost - Winning Icons
+* [BeastlyGhost](https://twitter.com/Fan_de_RPG) - Icons
 _____________________________________
 
 # Features
