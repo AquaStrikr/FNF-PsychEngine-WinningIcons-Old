@@ -17,8 +17,9 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 * [bbpanzu](https://twitter.com/bbsub3) - Ex-Coder
 
 ## Winning Icons
-* [AquaStrikr](https://twitter.com/aqua_strikr) - Coding
-* [Vyrox](https://twitter.com/vyrox_novo) - Compiled the release
+* [AquaStrikr](https://twitter.com/aqua_strikr) - Coding, Arts
+* [AshoXD](https://twitter.com/ashomoment) - Assistant Coding
+* [Vyrox](https://twitter.com/vyrox_novo) - Compiled the Engine (0.5.2h)
 
 ### Special Thanks
 * SqirraRNG - Chart Editor's Sound Waveform base code
