@@ -19,9 +19,8 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 * [bbpanzu](https://twitter.com/bbsub3) - Ex-Coder
 
 ## Winning Icons
-* [AquaStrikr](https://twitter.com/aqua_strikr) - Coding, Arts
-* [AshoXD](https://twitter.com/ashomoment) - Assistant Coding
-* [Vyrox](https://twitter.com/vyrox_novo) - Compiled the Engine (0.5.2h)
+* [AquaStrikr](https://twitter.com/aqua_strikr) - Coding
+* [Vyrox](https://twitter.com/vyrox_novo) - Compiled the Engine
 
 ### Special Thanks
 * SqirraRNG - Chart Editor's Sound Waveform base code
@@ -31,6 +30,7 @@ To install LuaJIT do this: `haxelib git linc_luajit https://github.com/AndreiRud
 * Smokey - Spritemap Texture Atlas support
 * Cary - OG Resolution code
 * Nebula_Zorua - VCR Shader code
+* Léozito - Aqua Icon
 _____________________________________
 
 # Features
